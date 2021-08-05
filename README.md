@@ -2,4 +2,5 @@
 
 ### Basic repository for storing all the code and stuff throughout the program.
 
-1. Day 1 - Got to know the basics of Kaggle also trained and tested a dataset.
+* Day 1 - Got to know the basics of Kaggle also trained and tested a dataset.
+* Day 2 - Basic python stuff with an interactive exercise to guide through.
