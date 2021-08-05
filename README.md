@@ -4,3 +4,4 @@
 
 * Day 1 - Got to know the basics of Kaggle also trained and tested a dataset.
 * Day 2 - Basic python stuff with an interactive exercise to guide through.
+* Day 3 - Understanding basic python functions
