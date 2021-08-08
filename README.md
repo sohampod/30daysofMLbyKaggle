@@ -6,3 +6,4 @@
 * Day 2 - Basic python stuff with an interactive exercise to guide through.
 * Day 3 - Understanding basic python functions
 * Day 4 - Booleans and Conditionals
+* Day 5 - Lists and its operations.
