@@ -8,3 +8,4 @@
 * Day 4 - Booleans and Conditionals
 * Day 5 - (Part 1) Lists and its operations
 * Day 5 - (Part 2) Loops and Lists Comprehension
+* Day 7 - Strings and Dictionaries
