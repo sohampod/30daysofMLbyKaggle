@@ -9,3 +9,4 @@
 * Day 5 - (Part 1) Lists and its operations
 * Day 5 - (Part 2) Loops and Lists Comprehension
 * Day 6 - Strings and Dictionaries
+* Day 7 - Working with External Libraries
