@@ -12,4 +12,5 @@
 * Day 7 - Working with External Libraries
 * Day 8 - (Part 1) Intro to ML
 * Day 8 - (Part 2) Basic data exploration with Pandas
-* Day 9 - (Part 1)Building a Machine Learning model
+* Day 9 - (Part 1) Building a Machine Learning model
+* Day 9 - (Part 2) Validating the Model
