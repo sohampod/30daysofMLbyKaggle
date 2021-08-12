@@ -10,3 +10,5 @@
 * Day 5 - (Part 2) Loops and Lists Comprehension
 * Day 6 - Strings and Dictionaries
 * Day 7 - Working with External Libraries
+* Day 8 - (Part 1) Intro to ML
+
