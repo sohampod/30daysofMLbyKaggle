@@ -18,3 +18,4 @@
 * Day 10 - (Part 2) Random Forests
 * Day 11 - Train a Machine Learning Model
 * Day 12 - (Part 1) Generating Test Predictors
+* Decision Tree Regressor 
