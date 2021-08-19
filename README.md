@@ -16,4 +16,4 @@
 * Day 9 - (Part 2) Validating the Model
 * Day 10 - (Part 1) Bias & Variance
 * Day 10 - (Part 2) Random Forests
-* Day 11 - 
+* Day 11 - Train a Machine Learning Model
