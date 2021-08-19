@@ -14,3 +14,6 @@
 * Day 8 - (Part 2) Basic data exploration with Pandas
 * Day 9 - (Part 1) Building a Machine Learning model
 * Day 9 - (Part 2) Validating the Model
+* Day 10 - (Part 1) Bias & Variance
+* Day 10 - (Part 2) Random Forests
+* Day 11 - 
