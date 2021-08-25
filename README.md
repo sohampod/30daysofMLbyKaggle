@@ -20,3 +20,4 @@
 * Day 12 - (Part 1) Generating Test Predictors
 * Decision Tree Regressor ([decisionTreeRegressor](https://github.com/sohampod/30daysofMLbyKaggle/blob/main/decisiontreeregressor.ipynb))
 * Day 12 - (Part 2) Missing Values Imputation
+* Day 12 - (Part 3) Categorical Variables
