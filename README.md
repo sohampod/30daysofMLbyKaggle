@@ -22,3 +22,4 @@
 * Day 12 - (Part 2) Missing Values Imputation
 * Day 12 - (Part 3) Categorical Variables
 * Day 13 - (Part 1) Pipelines
+* Day 13 - (Part 2) Cross-Validation set
